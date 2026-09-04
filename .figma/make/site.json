@@ -1,7 +1,8 @@
 {
-  "description": "Generates concise, clear descriptions of web applications to enhance SEO and improve user engagement for developers and marketers.",
+  "title": "Gomoa Ekroful Community",
+  "description": "Together for a united, peaceful and progressive Gomoa Ekroful Community in Ghana's Central Region.",
   "robots": {
-    "index": false
+    "index": true
   },
   "accessibility": {
     "addBypassLinks": false,
